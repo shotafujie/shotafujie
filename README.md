@@ -20,38 +20,36 @@
 
 
 ## 🦻 主な得意分野・テーマ
-- 音声処理・音響信号処理
+- 音声信号処理
 - 補助技術・アクセシビリティツール開発
 - リアルタイム音声認識・文字起こし
-- 可視化ツール・データビジュアライゼーション
-- Web × Cross Platform開発
+- Webアプリ開発
 
 ---
 
 ## 🛠 よく使う
 
-<img src="https://skillicons.dev/icons?i=python,js,cs,cpp,html,css,md" />
+<img src="https://skillicons.dev/icons?i=python,js,cs,cpp,html,css,md,figma,obsidian" />
 
 ## 🤝 触ったことがある
-<img src="https://skillicons.dev/icons?i=ruby,r,p5js,flutter,figma" />
+<img src="https://skillicons.dev/icons?i=ruby,r,p5js,flutter" />
 
 ## 👀 気になっている
-<img src="https://skillicons.dev/icons?i=matlab,obsidian" />
+<img src="https://skillicons.dev/icons?i=matlab" />
 
 ![](https://komarev.com/ghpvc/?username=shotafujie&label=Profile%20views)
 
 ---
 
-## 🚀 代表的なプロダクト・活動
-- [Otoreco](https://github.com/shotafujie/Otoreco)：リアルタイム文字起こし・自動修正Webツール
-- [SoundStudio](https://github.com/shotafujie/SoundStudio)：クロスプラットフォーム音響編集アプリ
-- [ColorAssist](https://github.com/shotafujie/ColorAssist)：画像コントラストチェック（WCAG）
-- [BlowWords](https://github.com/shotafujie/BlowWords)：スピーチ可視化ツール
-- [SoundHue](https://github.com/shotafujie/SoundHue)：音のスペクトルを可視化
+## 🚀 代表的な成果物
+- [ColorAssist](https://github.com/shotafujie/ColorAssist)：画像コントラストチェック
+- [BlowWords](https://github.com/shotafujie/BlowWords)：話した言葉をシャボン玉っぽく画面表示(技育Camp成果物)
+- [SoundHue](https://github.com/shotafujie/SoundHue)：音のスペクトルを可視化&振動提示
+- [asrivia](https://github.com/shotafujie/asrivia)：ローカルで文字起こしができて，PiP表示や翻訳もできる
 
 ---
 
-### 📝 ポートフォリオ
+### 📝 ホームページ
 [fujiemon.dev](https://fujiemon.dev/)
 
 ---
