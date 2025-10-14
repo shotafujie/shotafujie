@@ -1,9 +1,11 @@
-<h1 align="center">
-  <img src="./fujiemon.png" alt="fujiemon icon" height="32"">
-  ふじえもん / fujiemon 👋
-  <img src="./fujiemon-gif.gif" alt="fujiemon gif" height="32">
-</h1>
-
+<span>
+  <img src="./fujiemon.png" alt="fujiemon icon" height="64" style="vertical-align:middle;"/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A09BD8&background=55FFA200&width=435&lines=%E3%81%B5%E3%81%98%E3%81%88%E3%82%82%E3%82%93+%2F+fujiemon+%F0%9F%91%8B" height="48" style="vertical-align:middle;"/>
+  </a>
+  <img src="./fujiemon-gif.gif" alt="fujiemon gif" height="64" style="vertical-align:middle;">
+</span>
+<!--https://readme-typing-svg.herokuapp.com/でタイピングしてる風のSVGを作成しています-->
 
 ## 音声・アクセシビリティに関するアプリ・技術開発が得意です！
 
