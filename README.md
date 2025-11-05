@@ -48,6 +48,7 @@
 - [BlowWords](https://github.com/shotafujie/BlowWords)：話した言葉をシャボン玉っぽく画面表示(技育Camp成果物)
 - [SoundHue](https://github.com/shotafujie/SoundHue)：音のスペクトルを可視化&振動提示
 - [asrivia](https://github.com/shotafujie/asrivia)：ローカルで文字起こしができて，PiP表示や翻訳もできる
+- [arXiv2Discord](https://github.com/shotafujie/arXiv2Discord)：arXiv APIで取得した論文タイトル・アブストを，GitHub ActionsによってPerplexity AIで要約し，Discordアナウンスチャンネルに自動投稿＆公開．
 
 ---
 
