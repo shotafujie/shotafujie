@@ -60,3 +60,22 @@
 🌱 聴こえに関係なく発言できる，伝わる環境づくりをモットーにろう・難聴者のための音声コミュニケーションの支援に使えそうな技術の学習や実践，アプリ開発を行い，興味の赴くままに課題設定を行い手を動かしています．ご興味があるリポジトリがあればぜひFolkして拡張・改善していただいたり，Issue投稿やPR作成大歓迎です．  
 📝 スクラムやアクセシビリティに関するカンファレンス，ミートアップにいることが多いです．お気軽に絡んでくださるととても嬉しいです．推し本を教えてくれるととても喜びます．
 
+---
+
+## Support
+
+このリポジトリが役に立った/気に入っていただけたら，以下のいずれかの形でサポートしていただけると嬉しいです🙌
+
+- GitHubでのStar⭐
+- SNS等でのシェア・紹介
+- Buy Me a Coffeeからのご支援
+
+If you find this project useful, you can support it in any of the following ways 🙌
+
+- Give the repository a ⭐️ on GitHub
+- Share it on social media or with your friends
+- Support me on Buy Me a Coffee
+
+<a href="https://buymeacoffee.com/fujiemon" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee">
+</a>
