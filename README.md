@@ -12,13 +12,13 @@
 ---
 
 <!-- プロフィール詳細カード -->
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shotafujie&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shotafujie&theme=radical)
 
 <!-- リポジトリごとの言語棒グラフ -->
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shotafujie&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shotafujie&theme=radical)
 
 <!-- コミットの時間帯ごとのグラフ -->
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shotafujie&theme=github&utcOffset=9)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shotafujie&theme=radical&utcOffset=9)
 
 
 ## 🦻 主な得意分野・テーマ
@@ -57,7 +57,7 @@
 
 ---
 
-🌱 聴こえに関係なく発言できる，伝わる環境づくりをモットーにろう・難聴者のための音声コミュニケーションの支援に使えそうな技術の学習や実践，アプリ開発を行い，興味の赴くままに課題設定を行い手を動かしています．ご興味があるリポジトリがあればぜひFolkして拡張・改善していただいたり，Issue投稿やPR作成大歓迎です．  
+🌱 聴こえに関係なく発言できる，伝わる環境づくりをモットーにろう・難聴者のための音声コミュニケーションの支援に使えそうな技術の学習や実践，アプリ開発を行い，興味の赴くままに課題設定を行い手を動かしています．ご興味があるリポジトリがあればぜひForkして拡張・改善していただいたり，Issue投稿やPR作成大歓迎です．  
 📝 スクラムやアクセシビリティに関するカンファレンス，ミートアップにいることが多いです．お気軽に絡んでくださるととても嬉しいです．推し本を教えてくれるととても喜びます．
 
 ---
